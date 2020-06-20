@@ -17,3 +17,5 @@ When KeY is ready to prove (0: OPEN GOAL), run File > Reuse proof and select the
 Now simply click the green start button to complete the proof with the given @defs.
 
 (Note that for some of the given examples, setting "Arithmetic treatment" to "Model Search" may be required.)
+
+This KeY version can be used to reproduce the results of this paper: https://link.springer.com/chapter/10.1007/978-3-662-45231-8_9
